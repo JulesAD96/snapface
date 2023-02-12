@@ -21,7 +21,7 @@ export class AppComponent implements OnInit {
         description: 'Mon meilleur ami depuis tout petit !',
         imageUrl: 'https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg',
         createDate: new Date(),
-        snaps: 0,
+        snaps: 200,
         location: 'Paris'
       },
       {
