@@ -10,7 +10,7 @@ export class FaceSnapComponent implements OnInit {
 
   @Input() faceSnap!: FaceSnap
 
-  buttonText!: string
+  buttonText: string = "Oh snap!"
 
   ngOnInit() {
     
